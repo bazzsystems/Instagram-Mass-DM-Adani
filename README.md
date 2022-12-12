@@ -13,6 +13,7 @@ to use this script responsibly and not spam other users with unwanted messages.
 
 <b>In one line : This script is an automation that logs into your Instagram account and sends direct messages to other users using the Selenium library.</b>
 
+![Screenshot](sc.png)
 
 <h2>How to install?</h2>
 
@@ -37,6 +38,4 @@ Linkedin : https://www.linkedin.com/in/orelmizrahiadani/
 Github : https://github.com/orelmizrahii
 
 Notes : Add Fail safe If True countine else break and restart
-
-![Screenshot](sc.png)
 
