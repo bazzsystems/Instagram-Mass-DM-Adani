@@ -38,4 +38,4 @@ Github : https://github.com/orelmizrahii
 
 Notes : Add Fail safe If True countine else break and restart
 
-![image(https://prnt.sc/flHcdZcugYGV)
+<image>https://prnt.sc/flHcdZcugYGV</image>
