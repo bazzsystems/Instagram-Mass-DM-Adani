@@ -19,4 +19,4 @@ to use this script responsibly and not spam other users with unwanted messages.
 <code>pip install -r requirements </code>
 
 <h2> How to run?</h2>
-<text>Run the main script called</text>
+<text>Run the main script called <code>seleniumig.py</code></text>
