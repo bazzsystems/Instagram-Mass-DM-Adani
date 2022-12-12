@@ -38,5 +38,5 @@ Github : https://github.com/orelmizrahii
 
 Notes : Add Fail safe If True countine else break and restart
 
-![Alt text]([relative/path/to/img.jpg?raw=true](https://prnt.sc/flHcdZcugYGV) "Title")
+![Alt text]([[relative/path/to/img.jpg?raw=true](https://prnt.sc/flHcdZcugYG)](https://prnt.sc/flHcdZcugYGV)
 
