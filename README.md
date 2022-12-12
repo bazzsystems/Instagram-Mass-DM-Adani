@@ -24,6 +24,7 @@ to use this script responsibly and not spam other users with unwanted messages.
 Type <code>1</code>
 Script should run perfectly
 
+
 <b> Script Was Published in 06:03 12/12/2022 </b>
 <h2>Created By Orel Mizrahi Adani</h2>
 
