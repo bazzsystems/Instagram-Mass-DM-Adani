@@ -17,3 +17,6 @@ to use this script responsibly and not spam other users with unwanted messages.
 <h2>How to install?</h2>
 
 <code>pip install -r requirements </code>
+
+<h2> How to run?</h2>
+<text>Run the main script called</text>
