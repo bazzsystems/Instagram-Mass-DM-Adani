@@ -1,5 +1,5 @@
 
-<b>About the script :</b>
+<h1>About the script :</h1>
 
 this script is a simple automation that logs into your Instagram account and sends a direct message to a user or multiple users.
 
