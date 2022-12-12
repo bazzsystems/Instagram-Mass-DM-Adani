@@ -20,3 +20,20 @@ to use this script responsibly and not spam other users with unwanted messages.
 
 <h2> How to run?</h2>
 <text>Run the main script called <code>seleniumig.py</code></text>
+Type <code>1</code>
+Script should run perfectly
+
+<b> Script Was Published in 06:03 12/12/2022 </b>
+<h2>Created By Orel Mizrahi Adani</h2>
+
+
+Useful Links:
+
+Download Python : https://www.python.org/
+Install Pip : https://pypi.org/project/pip/
+Instasll Selenium : https://pypi.org/project/selenium/
+
+Linkedin : https://www.linkedin.com/in/orelmizrahiadani/
+Github : https://github.com/orelmizrahii
+
+Notes : Add Fail safe If True countine else break and restart
