@@ -1,4 +1,7 @@
-his script is a simple automation that logs into your Instagram account and sends a direct message to a user or multiple users.
+
+About the script :
+
+this script is a simple automation that logs into your Instagram account and sends a direct message to a user or multiple users.
 
 It uses the Selenium library to automate a web browser and send the message.
 
